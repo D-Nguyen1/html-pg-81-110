@@ -1,0 +1,14 @@
+html, body {
+    background-color: #3e4042;
+    color: #c4bfbf;
+  }
+  body{
+    height: 600px;
+    width: 600px;
+    background-color: white;
+    margin-left: 200px;
+  }
+  h1{
+    background-color: black;
+    color: white;
+  }
